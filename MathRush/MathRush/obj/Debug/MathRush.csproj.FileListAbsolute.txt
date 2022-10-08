@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\MathRush\MathRush\bin\Debug\MathRush.exe.config
+C:\Users\User\source\repos\MathRush\MathRush\bin\Debug\MathRush.exe
+C:\Users\User\source\repos\MathRush\MathRush\bin\Debug\MathRush.pdb
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.Properties.Resources.resources
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.csproj.GenerateResource.cache
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.exe
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.pdb
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.AddingGame.resources
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.csprojAssemblyReference.cache
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.MainMeniu.resources
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.MathRushBuild.resources
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.SubstractingGame.resources
+C:\Users\User\source\repos\MathRush\MathRush\obj\Debug\MathRush.FractionGame.resources
